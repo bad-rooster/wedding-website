@@ -3,119 +3,43 @@ draft: false
 title: "Accommodation"
 ---
 
-## Camping and Caravans at Higher Eggbeer
+Here are some accommodation options in **Llandeilo** (Carmarthenshire, Wales) — a mix of hotels, B&Bs and holiday cottages. I’ve included a short description + link for each so you can check availability.
 
-Higher Eggbeer also offers additional accommodation on site via shepards huts and caravans, which **need to be booked and paid in advance via Hugo and Sarah**. You would be able to stay there until midday Monday.
+## 🏡 Recommended Places to Stay in/near Llandeilo
 
-<br>
+- **The Plough Rhosmaen**  
+  Stylish country-hotel set in the Towy Valley with 23 well-appointed en-suite rooms, free WiFi, gym & sauna, and pet-friendly options. A great pick if you want comfort, easy access to the countryside and modern amenities. ([ploughrhosmaen.com](https://www.ploughrhosmaen.com/stay/?utm_source=chatgpt.com "Stay at the Plough Rhosmaen Boutique Hotel Llandeilo, Carmarthenshire"))  
+  [Book a room at The Plough Rhosmaen](https://www.ploughrhosmaen.com/stay/)
 
-Quoted from - [Higher Eggbeer's website](http://www.higher-eggbeer.co.uk/accommodation/#:~:text=You%20can%20bring,Friday%20to%20Monday.%C2%A0):
+- **The Cawdor Hotel**  
+  A historic Georgian building in the heart of Llandeilo, offering boutique-style rooms and a warm “home from home” atmosphere. Ideal if you want to stay centrally and explore the town on foot. ([visitllandeilo.co.uk](https://www.visitllandeilo.co.uk/where-to-stay/?utm_source=chatgpt.com "Where to Stay – Visit Llandeilo"))
 
-<br>
+- **Pantycastell Cottages**  
+  Two converted barn-style cottages (1–3 bedrooms, for up to 8 guests) with self-catering facilities and good disability access. Great for groups or families who want privacy and flexibility, surrounded by rural scenery. ([visitllandeilo.co.uk](https://www.visitllandeilo.co.uk/where-to-stay/?utm_source=chatgpt.com "Where to Stay – Visit Llandeilo"))
 
-_"There is a **shepherds hut** in the camping field with a shower and toilet, it has electric for hairdryers and charging phones. It also has a mirror and gas hob._
+- **Llwynhelig Manor Bed & Breakfast**  
+  A charming countryside B&B with restored-stone interiors, cosy rooms and a full breakfast — perfect if you like a quiet, relaxed stay with local hospitality. ([llwynhelig-manor-bed-breakfast.wheree.com](https://llwynhelig-manor-bed-breakfast.wheree.com/?utm_source=chatgpt.com "Llwynhelig Manor Bed & Breakfast - Reviews, Photos & Phone Number - Updated August 2025 - Bed & Breakfast in Llandeilo Town, Sir Gaerfyrddin / Carmarthenshire County - Wheree"))
 
-<br>
+- **Ravenscroft Retreats Glamping**  
+  For something different: a glamping-style stay for up to 2 guests. Good for couples or solo travellers who enjoy a mix of convenience and adventure in a rural/woodland environment. ([independentcottages.co.uk](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/?utm_source=chatgpt.com "Holiday Cottages in Llandeilo to Rent | Independent Llandeilo Cottages"))
 
-_There is also a **bridal shepherds hut** with a double bed, linen and heating provided which is £100 per night._
+Here’s a broader list of accommodation options in and around Llandeilo (Wales) — including cottages, B&Bs, glamping and self-catering places, with a variety of budgets and styles 👇
 
-<br>
+## 🏘️ More Places to Stay in / Near Llandeilo
 
-_Also **we can provide up to 7 caravans (depending on avaliablility)** on site for the weekend. Last two weeks of july and August not included. The caravans have gas shower, cooking, fridge and heating, we have 6 hook ups which cost £15 each. Please bring your own bedding. Please call Sarah (editor's note: not the bride!) on 07933028347 for prices and avaliability._
-
-<br>
-
-_There is a **mobile home** on site which sleeps 6-8 guests, it has three bedrooms, one double and two twins (which can be doubles as well). There is a pullout double bed in the living room. There is also a separate shower and toilet and kitchenette. Bedding not provided. The Cost is £250 for the weekend, Friday to Monday."_
-
-## B&B’s
-
-- [Brook Farmhouse](https://www.brook-farmhouse.co.uk/)
-B&B with 3 Rooms (10 min drive)
-
-- [Brickmoor Apartment B&B](http://www.brickmoor-bedandbreakfast.co.uk/page2.html)
-Sleeps 2 (12 min drive)
-
-
-## Hotels
-
-- [Holiday Inn, Exeter](https://www.booking.com/hotel/gb/holiday-inn-express-exeter-city-centre.en-gb.html)
-
-- [Fingle Glen Golf Hotel](https://www.fingleglengolfhotel.co.uk/)
-    - Hotel Rooms & Lodges (8min drive)
-
-- [Mill End Hotel](https://www.booking.com/hotel/gb/mill-end.en-gb.html)
-    - Small Boutique Hotel (15min drive)
-
-- [Jury’s Inn, Exeter](https://www.booking.com/hotel/gb/jurys-inn-exeter.en-gb.html)
-    - Hotel in Exeter - close to the train station
-
-- [The Globe Inn, Chagford](https://www.booking.com/hotel/gb/the-globe-inn.en-gb.html)
-    - Pub with Rooms (15-20min drive)
-
-## AirBnb
-
-- [Barn Studio, Cheriton Bishop](https://www.airbnb.co.uk/rooms/33395904?adults=2&check_in=2023-02-10&check_out=2023-02-13&children=0&guests=2&infants=0&role=wishlist_owner&source_impression_id=p3_1571604167_zvZsTfa85HAMr4jO&wl_id=575934231&wl_source=list)
-    - Self-catering apartment (2min drive, walking distance)
-    - 1 Bedroom/Sleeps2
-
-- [Honey Pippin House, Cheriton Bishop](https://www.airbnb.co.uk/rooms/29373662?check_in=2023-02-10&check_out=2023-02-13&guests=2&adults=2)
-    - Self-catering house w. hot tub 
-    - (2min drive, walking distance)
-    - 4 Bedroom/ Sleeps 8 
-
-- [Higher Thornwood Cottage, Tedburn St Mary](https://www.airbnb.co.uk/rooms/24710144?check_in=2023-02-10&check_out=2023-02-13&guests=2&adults=2)
-    - Self-catering house (10min drive)
-    - 4 Bedroom/Sleeps 7 
-
-## Holiday Cottages
-
-- [Downhouse Farm, nr Tedburn St Mary](https://www.vrbo.com/en-gb/p6831669?preferlocale=true&vgdc=HAUK)
-    - Self-catering house (10min drive)
-    - 7 Bedroom/Sleeps 10
-
-- [Hare Path Farm, nr Drewsteignton](https://www.harepathfarmbarns.com/)
-    - 2 Self-catering Barns (10min drive)
-    - 1 Bedroom/Sleeps 2 adults, 2 kids 
-    - 1 Bedroom /Sleeps 2
-
-- [3 x Clifford Cottages, Drewsteignton](https://www.cliffordbarton.co.uk/accommodation/)
-    - 3 Self-catering Cottages (10min drive)
-    - 3 Bedroom/Sleeps 8
-    - 2 Bedroom/Sleeps 5 
-    - 2 Bedroom/Sleeps 5 
-
-- [East Underdown Cottages, Drewsteignton](https://eastunderdown.co.uk/index.php)
-    - 3 Self-catering Cottages w.indoor pool (10min drive)
-    - 4 Bedroom/Sleeps 8
-    - 2 Bedroom/Sleeps 4
-    - 2 Bedroom/Sleeps 4
-
-- [Primrose Cottage, Drewsteignton](https://www.helpfulholidays.co.uk/cottage/Devon-Rectory-Wood/Primrose-Cottage-975865.html#map_wrp)
-    - Self-catering cottage (10min drive)
-    - 2 Bedroom/Sleeps 4
-
-- [Michaelmas Cottage, Drewsteignton](https://www.sykescottages.co.uk/cottage/Devon-Drewsteignton/Michaelmas-Cottage-975813.html?gclid=Cj0KCQjwi7DtBRCLARIsAGCJWBoZrSdzxXRphn8559ybLftOZprXVkhg_DVt7ku_RbsymhQMxUtaGJ0aAovbEALw_wcB&pcrid=275245603430&pkw=michaelmas%20cottage%20drewsteignton&pmt=e&rfx=3&slid=#duration=3&start=2020-07-24&calendar=2020-07&changeover=5)
-    - Self-catering cottage (10min drive)
-    - 4 Bedroom/Sleeps 6
-
-- [Bowbeer Barn, Drewsteignton](https://www.helpfulholidays.co.uk/cottage/Devon-Bowbeer/Bowbeer-Barn-975825.html)
-    - Self-catering cottage (10min drive)
-    - 2 Bedroom/Sleeps 4
-
-- [Rookwood Cottage, Drewsteignton](https://www.rookwoodcottage.com/)
-    - Self-catering cottage (10min drive)
-    - 2 Bedroom/Sleeps 4
-
-- [The Old Dairy, Dunsford](https://www.olddairydunsford.co.uk/)
-    - Self-catering cottage (15min drive)
-    - 1 Bedroom/Sleeps 2
-
-- [Budleigh Farm Cottages, Newton Abbot](https://www.booking.com/hotel/gb/budleigh-farm.html)
-    - 3 Self-catering Cottages (20min drive)
-    - 1 Bedroom / Sleeps 3 
-    - 1 Bedroom / Sleeps 3 
-    - 1 Bedroom / Sleeps 3 
-
-- [Swallows Cottage, Falkedon nr Spreyton](https://www.swallowsatfalkedon.co.uk/the-accommodation.html)
-Self-catering cottage (18min drive)
-    - 1 Bedroom/Sleeps 2
+- **Melin Tregib** — A peaceful B&B just outside Llandeilo, with free Wi-Fi, parking, and garden/terrace. Great for a relaxed stay while still being close to town. ([Cozycozy](https://www.cozycozy.com/gb/llandeilo-bed-and-breakfast?utm_source=chatgpt.com "Llandeilo Bed and Breakfasts at the Best Price | cozycozy"))  
+   [Book or view details — Melin Tregib](https://www.cozycozy.com/gb/llandeilo-bed-and-breakfast)
+- **Kite Cottage** — A self-catering holiday cottage (2 beds, sleeps up to 4) in Llandeilo. Good for small groups or families looking for privacy and flexibility. ([Independent Cottages](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/?utm_source=chatgpt.com "Holiday Cottages in Llandeilo to Rent | Independent Llandeilo Cottages"))  
+   [View Kite Cottage](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/)
+- **West Barn** — Another holiday cottage option (2 bedrooms, for up to 4 guests). More spacious than a typical B&B and ideal if you want self-catering and more room. ([Independent Cottages](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/?utm_source=chatgpt.com "Holiday Cottages in Llandeilo to Rent | Independent Llandeilo Cottages"))  
+   [Check out West Barn](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/)
+- **Bryn y Cadno** — A budget-friendly holiday cottage/house for 2 people — a simple, no-frills option if you just need a place to sleep and explore the area. ([Independent Cottages](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/?utm_source=chatgpt.com "Holiday Cottages in Llandeilo to Rent | Independent Llandeilo Cottages"))  
+   [See Bryn y Cadno](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/)
+- **Pyllaubach** — A “luxury” cottage for smaller parties (e.g., 1–2 guests) for a cozy, romantic or relaxed getaway. ([Cottages.com](https://www.cottages.com/wales/carmarthenshire/llandeilo?utm_source=chatgpt.com "Llandeilo Cottages & Quality Self-Catering Breaks"))  
+   [View Pyllaubach listings](https://www.cottages.com/wales/carmarthenshire/llandeilo)
+- **Rhandir Barn** — Larger cottage option (around 3 bedrooms) — suitable for groups or families wanting a self-contained holiday home. ([Cottages.com](https://www.cottages.com/wales/carmarthenshire/llandeilo?utm_source=chatgpt.com "Llandeilo Cottages & Quality Self-Catering Breaks"))  
+   [See Rhandir Barn info](https://www.cottages.com/wales/carmarthenshire/llandeilo)
+- **5\* cosy Cottage, Log Burner By Botanical Gardens** — Self-catering cottage a short drive from Llandeilo with a wood-burner, garden/patio, fully equipped kitchen, suitable for 2–3 guests — good for a quiet, countryside stay. ([Cozycozy](https://www.cozycozy.com/gb/llandeilo-bed-and-breakfast?utm_source=chatgpt.com "Llandeilo Bed and Breakfasts at the Best Price | cozycozy"))  
+   [More about this cottage](https://www.cozycozy.com/gb/llandeilo-bed-and-breakfast)
+- **Ravenscroft Retreats Glamping** — A glamping-style stay (1 bed, up to 2 guests) for those who prefer a more rustic / outdoorsy holiday rather than standard hotels or B&Bs. ([Independent Cottages](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/?utm_source=chatgpt.com "Holiday Cottages in Llandeilo to Rent | Independent Llandeilo Cottages"))  
+   [Explore Ravenscroft Retreats Glamping](https://www.independentcottages.co.uk/carmarthenshire/llandeilo/)

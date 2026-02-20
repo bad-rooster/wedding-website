@@ -5,6 +5,8 @@ title: "Order of Events"
 
 ## 1:30pm - Arrivals
 
+TEST hello
+
 Everyone arrives at Higher Eggbeer
 
 Warm drink on arrival before the ceremony
@@ -25,7 +27,7 @@ A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
 
 Speeches after dinner
 
-_Venue Bar opens during the wedding breakfast -  cash & card accepted_
+_Venue Bar opens during the wedding breakfast - cash & card accepted_
 
 ## Later... The Party
 

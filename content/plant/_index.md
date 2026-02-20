@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Planting your invitation"
+type: page
 ---
 
 1. Soak the seeded paper in water for at least twelve hours, to swell the seeds and aid germination.

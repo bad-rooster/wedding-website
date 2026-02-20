@@ -1,7 +1,10 @@
 ---
 draft: false
-when: "Sat 11th Feb 2023, 2:00 PM"
+when:
+  first: "Saturday 26th September 2026"
+  second: "XX:00 PM"
+
 where:
-  first: "Higher Eggbeer Farm"
-  second: "Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
+  first: "St Teilo's Church"
+  second: "11 Church St, Llandeilo SSA19 6BD"
 ---

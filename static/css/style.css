@@ -37,10 +37,15 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream: #FAF2DA;
-  --light-green: #8E9775;
-  --dark-green: #4A503D;
-  --dusty-pink: #E28F83;
+  /* --cream: #FAF2DA; */
+  --cream: #AEB081;
+  /* --light-green: #8E9775; */
+  --light-green: #995656;
+  /* --dark-green: #4A503D; */
+  --dark-green: #610D08;
+  /* --dusty-pink: #E28F83; */
+  --dusty-pink: #CFD1D1;
+
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */
@@ -55,7 +60,7 @@ html {
 @media only screen and (min-width: 800px) {
 
   .image {
-    min-height: 200px;
+    min-height: 300px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;

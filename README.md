@@ -1,6 +1,7 @@
 # Wedding Website - Status = Hitched! 📨
 
 This project is huge credit to [Sarah French](https://github.com/SarahFrench/wedding-website)
+
 If you're reading this- hello! I didn't want to spend money on Squarespace/Wix/etc to make a website for my wedding guests, so here it is deployed on GitHub Pages.
 
 The man I'm marrying is called Hugo, and the framework used to make the site is also called [Hugo](https://gohugo.io/), ain't that fun.
