@@ -159,7 +159,7 @@ html {
 .nav-mobile__burger {
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--dark-green);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -170,7 +170,7 @@ html {
   position: absolute;
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--dark-green);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
