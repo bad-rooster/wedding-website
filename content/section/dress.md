@@ -8,4 +8,4 @@ Please wear what would make you feel your most glamorous and sexy! There's no dr
 
 <br>
 
-As we will be getting married on a farm in February **we encourage everyone to bring lots of layers**! There may be brief moments when we will need to go outside while barns are being rearranged, but inside the barn there is heating and a fire.
+As the wedding will be an Autumnal Welsh wedding, **we encourage everyone to bring layers**!

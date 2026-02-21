@@ -3,48 +3,47 @@ draft: false
 title: "Order of Events"
 ---
 
-## 1:30pm - Arrivals
+<!-- ## 12:30 - Arrive at St Teilo's
 
-TEST hello
+## 13:00 - Ceremony
 
-Everyone arrives at Higher Eggbeer
+## 13:00 - Travel to Reception @ Wrights
 
-Warm drink on arrival before the ceremony
+## 15:00 - Speeches
 
-## 2pm - Ceremony
+## 16:00 - Dinner
 
-Inside the **Chapel Barn** at Higher Eggbeer
+## 16:00 - Speeches
 
-## 2:30pm - Reception
+## 18:00 - Tea & Coffee
 
-Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
+## 18:15 - Uncle Nick Starts
 
-Please do wrap up warm, but we have contingencies for rain
+## 20:00 - Evening Snacks
 
-## 4pm - Wedding Breakfast
+## 00:00 - Party Ends -->
 
-A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+<figure>
+<blockquote>
 
-Speeches after dinner
+## 12:30 - Arrive at St Teilo's
 
-_Venue Bar opens during the wedding breakfast - cash & card accepted_
+## 13:00 - Ceremony
 
-## Later... The Party
+## 13:00 - Travel to Reception @ Wrights
 
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
+## 15:00 - Speeches
 
-_The Small Things_ playing live music until 11pm
+## 16:00 - Dinner
 
-Late night food served for those still peckish!
+## 16:00 - Speeches
 
-## Carriages at midnight
+## 18:00 - Tea & Coffee
 
-Wrap up warm for sparklers, toasted marshmallows, and drunken warbling around the fire pit as we begin to say our farewells!
+## 18:15 - Uncle Nick Starts
 
-_Venue Bar closes shortly after midnight_
+## 20:00 - Evening Snacks
 
-## Wheelbarrows at 2am
-
-The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
-
-The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up!
+## 00:00 - Party Ends
+</blockquote>
+</figure>

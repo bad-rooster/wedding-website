@@ -3,30 +3,37 @@ draft: false
 title: "Travel Advice"
 ---
 
-## Address
+## Wedding Venue - 12:00 - 13:00
 
 11 Church St,
 Llandeilo,
-SSA19 6BD
-
-## Map
+SA19 6BD
 
 <iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2462.854694384534!2d-3.9953318232466892!3d51.88186488327859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486eff3ac5547611%3A0x68356d57946138f1!2sSt%20Teilo&#39;s%20Church%2C%20Llandeilo!5e0!3m2!1sen!2suk!4v1763990622181!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## 🚆 By Train
+## Reception Venue (Transport Provided) - 13:30 - 00:00
 
-- You can go by train from London Paddington (or other central London stations) → Llandeilo. There are ~18 trains per day.
-- Journey time: **as fast as ~4 h 2 min** on the quickest services, though more typical journeys may take **~4.5–5 h**.
+Wright's Food Emporium,
+Llanarthney,
+Carmarthen SA32 8JU
 
-## 🚌 By Bus / Coach
+<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2463.9563124329925!2d-4.1340786235445615!3d51.86175408475521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486ee34730c9fa93%3A0xfc45b938b83c0b35!2sWright&#39;s%20Food%20Emporium!5e0!3m2!1sen!2suk!4v1771683543906!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- You can also travel by coach from London to Llandeilo, typically via services from major coach companies.
+## 🚆 By Train + Taxi
+
+- You can go by train from London Paddington → Camarthen. There are ~18 trains per day.
+- Journey time: **around ~5 h** on the quickest services.
 
 ## 🚗 By Car / Driving
 
-- Driving from London to Llandeilo covers roughly **~270 km (≈ 165–170 miles)**.
+- Driving from London to Llandeilo is around 5-6 h.
 
-## ✨ What to Do Once in Llandeilo
+## ✨ What to Do After the Wedding in Llandeilo
 
-- The local station for arrival is on the scenic Heart of Wales Line — from there, you can walk to the town or local accommodation.
-- Once you arrive, you’ll find that Llandeilo has a charming historic centre, nice countryside setting (hills, rivers, natural walking/rambling options) — ideal for a relaxed getaway.
+If you plan on staying, you’ll find that Llandeilo has a charming historic centre, nice countryside setting (hills, rivers, natural walking/rambling options) ideal for a relaxed getaway.
+
+- Explore <a href="https://www.nationaltrust.org.uk/visit/wales/dinefwr">Dinefwr Park & Newton House</a>: A National Trust site featuring a 17th-century mansion, a deer park, and the ruins of Dinefwr Castle with stunning views of the Tywi Valley.
+- Independent Shopping: Known as a "chic" shopping destination, the town features specialized boutiques, antique shops, and local crafts.
+- Heritage Trail: Walk through the town to discover its rich history, including the site of a 6th-century religious community.
+- Dining and Food: Enjoy local produce at cafés and pubs in the town, or visit the nearby Michelin-recommended restaurant, <a href="https://guide.michelin.com/gb/en/carmarthenshire/capel-dewi/restaurant/y-polyn">Y Polyn</a>.
+- Visit <a href="https://www.nationaltrust.org.uk/visit/wales/history-of-paxtons-tower">Paxton's Tower</a>: A landmark Neo-Gothic folly offering panoramic views of the surrounding countryside.
