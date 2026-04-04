@@ -4,6 +4,7 @@
         <title> {{ .Site.Title }} </title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no" />
+        <meta name="robots" content="noindex, nofollow" />
         <link rel="icon" href="{{ .Site.BaseURL }}/image/favicon.png">
 
         <!-- <link href="style.css" rel="stylesheet" /> -->
@@ -14,6 +15,15 @@
         {{ block "dynamic_styles" . -}}{{- end }}
     </head>
     <body id="top">
+        <div id="password-gate">
+            <div id="password-gate__box">
+                <p id="password-gate__title">Adhi &amp; Izzy's Wedding</p>
+                <p id="password-gate__subtitle">Please enter the password from your invitation</p>
+                <input id="password-gate__input" type="password" placeholder="Password" autocomplete="current-password" />
+                <p id="password-gate__error" hidden>Incorrect password. Please try again.</p>
+                <button id="password-gate__submit">Enter</button>
+            </div>
+        </div>
         {{ block "main" . -}}{{- end }}
         <script src="{{ .Site.BaseURL }}/js/script.js"></script>
     </body>

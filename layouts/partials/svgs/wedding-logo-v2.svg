@@ -17,10 +17,12 @@
         text-anchor: middle;
         dominant-baseline: middle;
         letter-spacing: 3px;
+        text-shadow: none;
       }
       .l-amp {
         font-style: italic;
         font-size: 52px;
+        text-shadow: none;
       }
       .l-date {
         font-family: 'Noto Sans', Arial, sans-serif;
@@ -73,9 +75,9 @@
   </g>
 
   <!-- ── Names (stacked vertically) ────────────────────────────── -->
-  <text class="l-name" x="360" y="155">Adhi</text>
+  <text class="l-name" x="360" y="295">Adhi</text>
   <text class="l-name l-amp" x="360" y="225">&amp;</text>
-  <text class="l-name" x="360" y="295">Isobel</text>
+  <text class="l-name" x="360" y="155">Isobel</text>
 
   <!-- ── Middle divider: dots + rules ───────────────────────────── -->
   <line x1="90"  y1="336" x2="316" y2="336" class="l-rule" stroke-width="0.7" opacity="0.5"/>

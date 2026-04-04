@@ -1,6 +1,86 @@
 /* NOTE: media queries are for setting Desktop-specific rules */
 
 
+/* PASSWORD GATE */
+#password-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-color: var(--cream);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#password-gate.hidden {
+  display: none;
+}
+
+#password-gate__box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 48px 32px;
+  max-width: 360px;
+  width: 100%;
+  text-align: center;
+}
+
+#password-gate__title {
+  font-family: var(--main-font);
+  font-size: 1.4rem;
+  color: var(--dark-green);
+  letter-spacing: 0.05em;
+}
+
+#password-gate__subtitle {
+  font-family: var(--main-font);
+  font-size: 0.9rem;
+  color: var(--dark-green);
+  opacity: 0.75;
+}
+
+#password-gate__input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--dark-green);
+  background: transparent;
+  color: var(--dark-green);
+  font-family: var(--main-font);
+  font-size: 1rem;
+  text-align: center;
+  outline: none;
+}
+
+#password-gate__input::placeholder {
+  color: var(--dark-green);
+  opacity: 0.5;
+}
+
+#password-gate__error {
+  font-family: var(--main-font);
+  font-size: 0.85rem;
+  color: var(--dark-green);
+  opacity: 0.85;
+}
+
+#password-gate__submit {
+  padding: 10px 32px;
+  background-color: var(--dark-green);
+  color: var(--cream);
+  border: none;
+  font-family: var(--main-font);
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+
+#password-gate__submit:hover {
+  opacity: 0.85;
+}
+
+
 /* MISC */
 * {
   margin: 0px;
