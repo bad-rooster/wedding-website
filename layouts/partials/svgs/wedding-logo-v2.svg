@@ -1,0 +1,95 @@
+<svg class="header-svg"
+     viewBox="0 0 720 440"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-label="Adhi and Isobel, 26th September 2026">
+
+  <defs>
+    <!-- Reusable leaf: pointed oval, tip at right, base at left, 26×10 -->
+    <path id="lf" d="M 0,0 C 4,-8 22,-9 26,0 C 22,9 4,8 0,0 Z"/>
+
+    <style>
+      .l-name {
+        font-family: 'Noto Serif', Georgia, 'Times New Roman', serif;
+        font-size: 66px;
+        fill: #610D08;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        letter-spacing: 3px;
+      }
+      .l-amp {
+        font-style: italic;
+        font-size: 52px;
+      }
+      .l-date {
+        font-family: 'Noto Sans', Arial, sans-serif;
+        font-size: 17px;
+        fill: #610D08;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        letter-spacing: 6px;
+        text-shadow: none;
+      }
+      .l-leaf { fill: #610D08; }
+      .l-rule { stroke: #610D08; fill: none; }
+    </style>
+  </defs>
+
+  <!-- ── Background card ─────────────────────────────────────────── -->
+  <rect x="16" y="16" width="688" height="408" rx="6"
+        fill="#f6f4f0"/>
+  <!-- Thin inset border -->
+  <rect x="26" y="26" width="668" height="388" rx="4"
+        fill="none" class="l-rule" stroke-width="0.7" opacity="0.45"/>
+
+  <!-- ── Top decorative rule + diamond ──────────────────────────── -->
+  <line x1="52"  y1="76" x2="320" y2="76" class="l-rule" stroke-width="0.8" opacity="0.55"/>
+  <polygon points="360,67 368,76 360,85 352,76" class="l-leaf" opacity="0.7"/>
+  <line x1="400" y1="76" x2="668" y2="76" class="l-rule" stroke-width="0.8" opacity="0.55"/>
+
+  <!-- ── Left botanical sprig ────────────────────────────────────── -->
+  <g class="l-leaf" opacity="0.7" transform="translate(80, 76)">
+    <path d="M -28,0 Q 20,-2 82,0" class="l-rule" stroke-width="0.9" stroke="#610D08"/>
+    <use href="#lf" transform="translate(60,0)   rotate(0)"/>
+    <use href="#lf" transform="translate(38,-1)  rotate(-35) scale(0.85)"/>
+    <use href="#lf" transform="translate(35,1)   rotate(32)  scale(0.85)"/>
+    <use href="#lf" transform="translate(14,-1)  rotate(-28) scale(0.75)"/>
+    <use href="#lf" transform="translate(11,1)   rotate(25)  scale(0.75)"/>
+    <use href="#lf" transform="translate(-10,-1) rotate(-22) scale(0.65)"/>
+    <use href="#lf" transform="translate(-12,1)  rotate(20)  scale(0.65)"/>
+  </g>
+
+  <!-- ── Right botanical sprig (mirrored) ───────────────────────── -->
+  <g class="l-leaf" opacity="0.7" transform="translate(640, 76) scale(-1,1)">
+    <path d="M -28,0 Q 20,-2 82,0" class="l-rule" stroke-width="0.9" stroke="#610D08"/>
+    <use href="#lf" transform="translate(60,0)   rotate(0)"/>
+    <use href="#lf" transform="translate(38,-1)  rotate(-35) scale(0.85)"/>
+    <use href="#lf" transform="translate(35,1)   rotate(32)  scale(0.85)"/>
+    <use href="#lf" transform="translate(14,-1)  rotate(-28) scale(0.75)"/>
+    <use href="#lf" transform="translate(11,1)   rotate(25)  scale(0.75)"/>
+    <use href="#lf" transform="translate(-10,-1) rotate(-22) scale(0.65)"/>
+    <use href="#lf" transform="translate(-12,1)  rotate(20)  scale(0.65)"/>
+  </g>
+
+  <!-- ── Names (stacked vertically) ────────────────────────────── -->
+  <text class="l-name" x="360" y="155">Adhi</text>
+  <text class="l-name l-amp" x="360" y="225">&amp;</text>
+  <text class="l-name" x="360" y="295">Isobel</text>
+
+  <!-- ── Middle divider: dots + rules ───────────────────────────── -->
+  <line x1="90"  y1="336" x2="316" y2="336" class="l-rule" stroke-width="0.7" opacity="0.5"/>
+  <circle cx="336" cy="336" r="2.2" class="l-leaf" opacity="0.6"/>
+  <circle cx="360" cy="336" r="2.2" class="l-leaf" opacity="0.6"/>
+  <circle cx="384" cy="336" r="2.2" class="l-leaf" opacity="0.6"/>
+  <line x1="404" y1="336" x2="630" y2="336" class="l-rule" stroke-width="0.7" opacity="0.5"/>
+
+  <!-- ── Date ───────────────────────────────────────────────────── -->
+  <text class="l-date" x="360" y="368">26TH SEPTEMBER 2026</text>
+
+  <!-- ── Bottom decorative rule + diamond ──────────────────────── -->
+  <line x1="52"  y1="396" x2="320" y2="396" class="l-rule" stroke-width="0.8" opacity="0.55"/>
+  <polygon points="360,387 368,396 360,405 352,396" class="l-leaf" opacity="0.7"/>
+  <line x1="400" y1="396" x2="668" y2="396" class="l-rule" stroke-width="0.8" opacity="0.55"/>
+
+</svg>

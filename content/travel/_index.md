@@ -28,6 +28,10 @@ Carmarthen SA32 8JU
 
 - Driving from London to Llandeilo is around 5-6 h.
 
+## 🚕 Getting Home After the Party
+
+The party ends at midnight — please **pre-book a taxi in advance** if you are not travelling by car, as taxis in rural Wales are limited and may not be available on the night. Local firms worth contacting: [Llandeilo Taxis](https://www.google.com/search?q=llandeilo+taxi+firm), or ask your accommodation for a recommendation.
+
 ## ✨ What to Do After the Wedding in Llandeilo
 
 If you plan on staying, you’ll find that Llandeilo has a charming historic centre, nice countryside setting (hills, rivers, natural walking/rambling options) ideal for a relaxed getaway.
