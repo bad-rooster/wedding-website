@@ -7,9 +7,6 @@ Here are some accommodation options in **Llandeilo** (Carmarthenshire, Wales) 
 
 ## 🏡 Recommended Places to Stay in/near Llandeilo
 
-- **The Plough Rhosmaen**  
-  Stylish country-hotel set in the Towy Valley with 23 well-appointed en-suite rooms, free WiFi, gym & sauna, and pet-friendly options. A great pick if you want comfort, easy access to the countryside and modern amenities. ([ploughrhosmaen.com](https://www.ploughrhosmaen.com/stay/?utm_source=chatgpt.com "Stay at the Plough Rhosmaen Boutique Hotel Llandeilo, Carmarthenshire"))  
-  [Book a room at The Plough Rhosmaen](https://www.ploughrhosmaen.com/stay/)
 
 - **The Cawdor Hotel**  
   A historic Georgian building in the heart of Llandeilo, offering boutique-style rooms and a warm “home from home” atmosphere. Ideal if you want to stay centrally and explore the town on foot. ([visitllandeilo.co.uk](https://www.visitllandeilo.co.uk/where-to-stay/?utm_source=chatgpt.com "Where to Stay – Visit Llandeilo"))
