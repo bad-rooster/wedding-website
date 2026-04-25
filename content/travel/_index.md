@@ -30,7 +30,7 @@ Carmarthen SA32 8JU
 
 ## 🚕 Getting Home After the Party
 
-The party ends at midnight — please **pre-book a taxi in advance** if you are not travelling by car, as taxis in rural Wales are limited and may not be available on the night. Local firms worth contacting: [Llandeilo Taxis](https://www.google.com/search?q=llandeilo+taxi+firm), or ask your accommodation for a recommendation.
+The party ends at midnight - please **pre-book a taxi in advance** if you are not travelling by car, as taxis in rural Wales are limited and may not be available on the night. Local firms worth contacting: [Llandeilo Taxis](https://www.google.com/search?q=llandeilo+taxi+firm), or ask your accommodation for a recommendation.
 
 ## ✨ What to Do After the Wedding in Llandeilo
 

@@ -15,6 +15,6 @@ title: "Order of Events"
 ## 18:00 - Tea & Coffee
 ## 18:15 - Live Music
 ## 20:00 - Evening Snacks
-## 00:00 - Party Ends — please pre-book your taxi home!
+## 00:00 - Party Ends - please pre-book your taxi home!
 </blockquote>
 </figure>

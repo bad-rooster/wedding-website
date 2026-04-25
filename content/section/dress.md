@@ -8,4 +8,4 @@ As the wedding will be an Autumnal Welsh wedding, **we encourage everyone to bri
 <br>
 **Dress code: Smart casual or above.** Think suits, blazers, dresses - whatever makes you feel great.
 <br>
-**Weather:** September in Wales can be unpredictable — a smart jacket and an umbrella is always a good idea.
+**Weather:** September in Wales can be unpredictable - a smart jacket and an umbrella is always a good idea.
