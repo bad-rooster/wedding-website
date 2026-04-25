@@ -5,10 +5,10 @@ title: "Order of Events"
 <figure>
 <blockquote>
 
-## 12:30 - Arrive at St Teilo's
+## 12:30 - Arrive at St Teilo's Church - SA19 6BH
 ## 13:00 - Ceremony
 ## 14:00 - Transport to Reception (provided)
-## 14:15 - Arrive at Wright's Food Emporium
+## 14:15 - Arrive at Wright's Food Emporium - SA32 8JU
 ## 15:00 - Bride Speeches
 ## 16:00 - Dinner
 ## 16:30 - Groom Speeches

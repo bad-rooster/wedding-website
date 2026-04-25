@@ -5,6 +5,10 @@ title: "Accommodation"
 
 Here are some accommodation options near the venue in Carmarthenshire, Wales.
 
+Please note the church and the reception are 12 mins drive away
+Church address: 11 Church St, Llandeilo, SA19 6BD
+Reception address: Wright's Food Emporium, Llanarthney, Carmarthen SA32 8JU
+
 ## Recommended Places to Stay
 
 - **[Cawdor Hotel](https://www.thecawdor.com/)**  
@@ -14,7 +18,7 @@ Here are some accommodation options near the venue in Carmarthenshire, Wales.
   A welcoming pub with rooms, offering comfortable accommodation with a relaxed, local feel.
 
 - **[Emlyn Arms, Llanarthne](https://www.booking.com/hotel/gb/emlyn-arms.en-gb.html)**  
-  A traditional Welsh inn right next to the venue, great for those who want to be nearby without venturing far.
+  A traditional Welsh inn right next to the reception venue, great for those who want to be nearby without venturing far.
 
 ## Other Options
 
