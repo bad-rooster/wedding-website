@@ -3,7 +3,7 @@ draft: false
 title: "Travel Advice"
 ---
 
-## Wedding Venue - 12:00 - 13:00
+## Wedding Ceremony - 12:30 - 14:00
 
 11 Church St,
 Llandeilo,
@@ -11,7 +11,7 @@ SA19 6BD
 
 <iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2462.854694384534!2d-3.9953318232466892!3d51.88186488327859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486eff3ac5547611%3A0x68356d57946138f1!2sSt%20Teilo&#39;s%20Church%2C%20Llandeilo!5e0!3m2!1sen!2suk!4v1763990622181!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Reception Venue (Transport Provided) - 13:30 - 00:00
+## Reception Venue (Transport Provided) - 14:00 - 00:00
 
 Wright's Food Emporium,
 Llanarthney,

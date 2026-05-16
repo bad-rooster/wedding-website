@@ -405,7 +405,8 @@ html {
   text-align: center;
 }
 
-.section__split div:nth-child(1) {
+.section__split div:nth-child(1),
+.section__split div:nth-child(2) {
   border-right: none;
   border-bottom: solid 2px var(--dusty-pink);
 }
@@ -415,7 +416,8 @@ html {
     flex-direction: row;
   }
 
-  .section__split div:nth-child(1) {
+  .section__split div:nth-child(1),
+  .section__split div:nth-child(2) {
     border-right: solid 2px var(--dusty-pink);
     border-bottom: none;
   }

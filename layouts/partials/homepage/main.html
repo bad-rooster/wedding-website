@@ -17,12 +17,21 @@
                 </p>
             </div>
             <div>
-                <p class="section__subheading">Where</p>
+                <p class="section__subheading">Wedding Venue</p>
                 <p class="section__text--bold">
-                    {{ .Params.where.first }}
+                    {{ .Params.ceremony.first }}
                 </p>
                 <p>
-                    {{ .Params.where.second }}
+                    {{ .Params.ceremony.second }}
+                </p>
+            </div>
+            <div>
+                <p class="section__subheading">Reception Venue</p>
+                <p class="section__text--bold">
+                    {{ .Params.reception.first }}
+                </p>
+                <p>
+                    {{ .Params.reception.second }}
                 </p>
             </div>
         </section>
