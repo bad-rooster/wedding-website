@@ -8,19 +8,48 @@
     </div>
     <h1 class="section__heading" style="padding:0 20%;">RSVP</h1>
 
-    <!-- Cal inline embed code begins -->
-    <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-izzy-adhi-wedding"></div>
-    <script type="text/javascript">
-      (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; let s = d.createElement("script"); s.src = A + "?t=" + Date.now(); d.head.appendChild(s); cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-      Cal("init", "izzy-adhi-wedding", {origin:"https://app.cal.com"});
-      Cal.ns["izzy-adhi-wedding"]("inline", {
-        elementOrSelector:"#my-cal-inline-izzy-adhi-wedding",
-        config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true","date":"2026-09-26"},
-        calLink: "adhi-nugroho/izzy-adhi-wedding",
-      });
-      Cal.ns["izzy-adhi-wedding"]("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
-    </script>
-    <!-- Cal inline embed code ends -->
+<!-- Cal embed code begins -->
+<div class="cal-wrapper">
+  <!-- Inline embed: desktop -->
+  <div class="cal-desktop" id="my-cal-inline-izzy-adhi-wedding"></div>
+  <!-- Popup button: mobile -->
+  <div class="cal-mobile">
+    <button data-cal-link="adhi-nugroho/izzy-adhi-wedding" data-cal-namespace="izzy-adhi-wedding" data-cal-config='{"layout":"month_view","date":"2026-09-26"}' class="rsvp-button">RSVP Now</button>
+  </div>
+</div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+  Cal("init", "izzy-adhi-wedding", {origin:"https://app.cal.com"});
+
+  Cal.ns["izzy-adhi-wedding"]("inline", {
+    elementOrSelector:"#my-cal-inline-izzy-adhi-wedding",
+    config: {"layout":"month_view","date":"2026-09-26"},
+    calLink: "adhi-nugroho/izzy-adhi-wedding",
+  });
+
+  Cal.ns["izzy-adhi-wedding"]("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
+</script>
+<style>
+  .cal-wrapper { width: 100%; }
+  .cal-desktop { width: 100%; min-height: 700px; }
+  .cal-mobile { display: none; text-align: center; padding: 40px 20px; }
+  .rsvp-button {
+    background-color: var(--dark-green);
+    color: var(--cream);
+    border: none;
+    padding: 16px 40px;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  @media only screen and (max-width: 800px) {
+    .cal-desktop { display: none; }
+    .cal-mobile { display: block; }
+  }
+</style>
+<!-- Cal embed code ends -->
 </section>
 
 {{ partial "shared/footer.html" . }}
